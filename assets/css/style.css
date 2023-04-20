@@ -1,0 +1,136 @@
+nav {
+    background-image: url("../img/digibanner.jpg");
+    background-size: cover;
+
+}
+
+
+#navlogo {
+    width: 30%;
+}
+
+
+.tarjeta {
+    margin: 0;
+    display: inline-block;
+    width: 48%;
+    margin-bottom: 5%;
+    margin-left: 1%;
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+}
+
+#contenido {
+    padding: 0;
+    margin: 0;
+}
+.card-title {
+    font-size: 15px;
+    margin-top: 5%;
+}
+
+.card {
+    text-align: center;
+}
+#collapse-card {
+    width: 100%;
+}
+
+/*                           */
+
+main {
+    margin-bottom: 20%;
+    margin-top: 10%;
+}
+body {
+    background-color: rgb(190, 190, 190);
+}
+
+.contenido {
+    background-color: #b3b3b3;
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 30%;
+}
+#contenedorlogo {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+#logo {
+    width: 150px;
+}
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:11%;
+    width:100%;
+    background:#eceeef;
+    text-align: center;
+ }
+
+ #footer__p {
+    color:#818a91 ;
+    font-size: 12px;
+ }
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+
+.social-icons li
+{
+  display:inline-block;
+}
+
+.social-icons a{
+  background-color:#eceeef;
+  color:#818a91;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  margin-top: 10%;
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:#fff;
+  background-color:#29aafe
+}
+
+.social-icons a.facebook:hover
+{
+  background-color:#3b5998
+}
+.social-icons a.twitter:hover
+{
+  background-color:#00aced
+}
+.social-icons a.youtube:hover
+{
+  background-color:red
+}
+.social-icons a.instagram:hover
+{
+  background-color:#ea4c89
+}
